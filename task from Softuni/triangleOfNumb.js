@@ -8,3 +8,4 @@ function triangleOfNumb(number) {
         console.log(`${print.trimEnd()}`);
     }
 }
+triangleOfNumb(4);
